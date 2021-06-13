@@ -1,0 +1,14 @@
+There are currently 10 astronauts on the ISS: 
+
+Sergey Ryzhikov - onboard
+Kate Rubins - onboard
+Sergey Kud-Sverchkov - onboard
+Mike Hopkins - onboard
+Victor Glover - onboard
+Shannon Walker - onboard
+Soichi Noguchi - onboard
+Mark Vande Hei - onboard
+Oleg Novitskiy - onboard
+Pyotr Dubrov - onboard
+
+ Your current Latitude and Longitude is: [45.0705, 7.6868]
